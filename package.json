@@ -1,5 +1,5 @@
 {
-  "name": "simple-notifier",
+  "name": "daily-scrum-reminder ",
   "main": "index.html",
   "window": {
     "show": false,
