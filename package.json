@@ -1,0 +1,13 @@
+{
+  "name": "simple-notifier",
+  "main": "index.html",
+  "window": {
+    "show": false,
+    "toolbar": false,
+    "width": 1500,
+    "height": 1000
+  },
+  "dependencies": {
+    "cron": "^1.0.4"
+  }
+}
