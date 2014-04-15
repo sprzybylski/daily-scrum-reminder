@@ -5,7 +5,6 @@ module.exports = (grunt) ->
             options:
                 app_name: 'Daily Scrum Reminder',
                 build_dir: './builds',
-                credits: './public/index.html',
                 mac_icns: './public/sample.icns',
                 mac: true,
                 win: false,
