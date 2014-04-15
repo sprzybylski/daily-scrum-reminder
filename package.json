@@ -1,13 +1,7 @@
 {
   "name": "daily-scrum-reminder ",
-  "main": "index.html",
-  "window": {
-    "show": false,
-    "toolbar": false,
-    "width": 800,
-    "height": 600
-  },
-  "dependencies": {
-    "cron": "^1.0.4"
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-node-webkit-builder": "^0.1.20"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "name": "daily-scrum-reminder ",
+  "version": "0.1.0",
+  "main": "index.html",
+  "window": {
+    "show": false,
+    "toolbar": false,
+    "width": 800,
+    "height": 600
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "dependencies": {
+    "cron": "^1.0.4"
+  }
+}
