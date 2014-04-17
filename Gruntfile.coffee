@@ -8,7 +8,7 @@ module.exports = (grunt) ->
                 mac_icns: './public/sample.icns',
                 mac: true,
                 win: false,
-                linux32: false,
+                linux32: true,
                 linux64: true,
                 src: './public/**/*'
             src: './public/**/*'
